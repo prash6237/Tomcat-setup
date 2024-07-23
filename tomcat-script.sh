@@ -17,3 +17,4 @@ chmod 777 -R apache-tomcat-9.0.65
 cd ~
 sudo ln -s /opt/apache-tomcat-9.0.65/bin/startup.sh /usr/bin/startTomcat
 sudo ln -s /opt/apache-tomcat-9.0.65/bin/shutdown.sh /usr/bin/stopTomcat
+startTomcat
